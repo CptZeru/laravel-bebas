@@ -22,3 +22,5 @@ Route::get('/EchoNovember', function () {
 Route::get('/NovemberOscar', function () {
     return view('no');
 });
+Route::get('echoeggs/moreecho','Zeru@more');
+Route::resource('echoeggs','Zeru');
