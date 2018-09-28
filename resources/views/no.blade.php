@@ -5,8 +5,8 @@
         <!-- Add Your Content Inside -->
         <div class="content">
             <!-- Remove This Before You Start -->
-            <h1>TEST</h1>
-            <p>This is where our stories begin</p>
+            <h1>Echo Lima Golff</h1>
+            <p>Tower : "...November Oscar, Over!"</p>
         </div>
         <!-- /.content -->
     </section>

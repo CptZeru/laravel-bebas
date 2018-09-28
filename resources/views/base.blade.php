@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
 
     <!-- Main Styles CSS -->
-    <link href="/assets/css/main.css" rel="stylesheet">
+    <link href="main.css" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -40,10 +40,10 @@
                 <a href="/">Home</a>
             </li>
             <li>
-                <a href="#">- Sidebar 1</a>
+                <a href="/EchoNovember">-> Echo November Page</a>
             </li>
             <li>
-                <a href="#">- Sidebar 2</a>
+                <a href="NovemberOscar">-> November Oscar Page</a>
             </li>
         </ul>
     </aside>
@@ -61,7 +61,7 @@
 <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
 
 <!-- Custom JavaScript -->
-<script src="/assets/js/custom.js"></script> {{-- ini cara memanggil js dari folder assets -> js --}}
+<script src="/assets/js/custom.js"></script>
 </body>
 
 </html>
